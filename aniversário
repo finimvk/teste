@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>1 Ano de Namoro 💖</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #fff5f8;
+            text-align: center;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        h1 {
+            font-size: 32px;
+            color: #ff4d6d;
+            border-bottom: 4px solid #ff4d6d;
+            display: inline-block;
+            padding-bottom: 10px;
+            margin-top: 20px;
+            background: linear-gradient(90deg, #ff4d6d, #ff6b81, #ff4d6d);
+            padding: 10px 20px;
+            border-radius: 15px;
+            color: white;
+            box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+        }
+        .poetry {
+            font-size: 18px;
+            color: #ff4d6d;
+            font-style: italic;
+            margin: 15px 0;
+            background: rgba(255, 77, 109, 0.1);
+            padding: 10px;
+            border-radius: 10px;
+            display: inline-block;
+        }
+        .container {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 20px;
+        }
+        img {
+            width: 50%;
+            height: auto;
+            border-radius: 10px;
+            box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+        }
+        .text-box {
+            margin-left: 20px;
+            max-width: 500px;
+            text-align: left;
+        }
+        p {
+            border-bottom: 3px solid black;
+            display: inline-block;
+            padding-bottom: 5px;
+            font-size: 18px;
+            background: #ffe6ea;
+            padding: 10px;
+            border-radius: 10px;
+            box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+        }
+        .hearts {
+            font-size: 24px;
+            color: #ff4d6d;
+            animation: pulse 1.5s infinite;
+        }
+        .footer {
+            margin-top: 30px;
+            padding: 15px;
+            background: #ff4d6d;
+            color: white;
+            font-size: 16px;
+            border-radius: 10px;
+        }
+        @keyframes pulse {
+            0% { transform: scale(1); }
+            50% { transform: scale(1.1); }
+            100% { transform: scale(1); }
+        }
+    </style>
+</head>
+<body>
+    <h1>💖 1 Ano ao Lado do Amor da Minha Vida 💖</h1>
+    
+    <div class="poetry">
+        "Nos teus olhos vejo o universo,<br>
+        No teu sorriso, o sol a brilhar.<br>
+        Meu amor por ti é imenso,<br>
+        E para sempre irá durar." 🌹
+    </div>
+
+    <hr style="border: 2px solid black; width: 80%;">
+
+    <div class="container">
+        <img src="https://ih1.redbubble.net/image.3379503273.8716/flat,750x,075,f-pad,750x1000,f8f8f8.jpg" 
+             alt="Imagem da Internet">
+
+        <div class="text-box">
+            <p>Oi, minha princesinha, feliz aniversário de namoro! Um ano ao seu lado e tenho certeza de que muitos mais virão. Você me faz tão feliz, sabia? Cada dia com você é uma alegria imensa, e você é o melhor presente que a vida me deu. Te amo demais, minha neném! Vamos seguir juntos, sempre! 💕</p>
+            <br>
+            <p>Eu ainda não sei fazer sites muito bem, mas me esforcei muito com o básico que eu sei para criar este só para você, espero que goste desse meu "trabalho", meu amor. 💌</p>
+            <br>
+            <p>Saiba que eu te amo muito, meu amor, muito mesmo! Quero você até o resto da minha vida, viu? Você é muito fofa e linda, minha princesa. Enquanto eu fiz esse site, não parei de pensar em você nem por um segundo. Até quando eu durmo, meu coração continua chamando por você. Te amo para sempre! ❤️</p>
+        </div>
+    </div>
+
+    <div class="footer">
+        💖 Você é e sempre será meu maior amor. Para sempre juntos! 💖
+    </div>
+</body>
+</html>
